@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 - 🎓 BCA Student  
-- 💻 I love building projects using **JavaScript, React, Node.js & MongoDB**  
+- 💻 I love building projects using **JavaScript, React, Node.js, Express.js & MongoDB**  
 - 📊 Currently learning **Big Data & Analytics**  
 - 🌱 Exploring **DSA**, full-stack development & modern web frameworks  
 - 🎯 Goal: Become a skilled full-stack developer + big data engineer  
@@ -25,6 +25,9 @@
 ### 👨‍💻 Programming  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +35,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+🚀 Currently mastering Backend Development
 
 ### 🧰 Backend  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
