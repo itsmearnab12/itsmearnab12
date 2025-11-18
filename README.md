@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 - 🎓 BCA Student  
 - 💻 I love building projects using **JavaScript, React, Node.js, Express.js & MongoDB**  
-- 📊 Currently learning **Big Data & Analytics**  
+- 📊 Currently learning **Big Data Analytics & Backend Development**  
 - 🌱 Exploring **DSA**, full-stack development & modern web frameworks  
 - 🎯 Goal: Become a skilled full-stack developer + big data engineer  
 
