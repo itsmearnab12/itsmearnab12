@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Arnab</h1>
-<h3 align="center">Passionate BCA student | Web Developer | Big Data Enthusiast</h3>
+<h3 align="center">Passionate BCA student | Full-stack developer | Big Data Enthusiast</h3>
 
 ---
 
